@@ -1,2 +1,3 @@
 https://github.com/tundelorincz/Test_repo.git
+Fixed in iss96 branch
 Hello world!
