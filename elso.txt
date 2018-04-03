@@ -1,2 +1,3 @@
 Hello world!
 Problem solved.
+We need some modified item in master. It is here.
