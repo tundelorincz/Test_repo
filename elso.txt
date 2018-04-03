@@ -1,3 +1,3 @@
 Hello world!
-Problem solved.
+Problem solved. Hello MASTER
 We need some modified item in master. It is here.
